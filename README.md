@@ -10,4 +10,4 @@ For devices with Rockchip's SoC (System on a Chip).
 * _rk3126MiniLoaderAll(L)_V2.19.bin
 
 
-![alt tag](https://postimg.org/image/h5w516drp/)
+![Alt text](https://s26.postimg.org/78l484661/Schermata_2017_02_05_alle_7_48_33_PM.png?raw=true "MASKROM")
