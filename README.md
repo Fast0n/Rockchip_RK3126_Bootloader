@@ -4,7 +4,7 @@ For devices with Rockchip's SoC (System on a Chip).
 
 * _RK31_ series: RK3126
 
-! Warning - MASKROM !
+⚠️  Warning - MASKROM ⚠️
 
 * [rk3126MiniLoaderAll(L)_V2.19_off.bin](https://github.com/Fast0n/Rockchip-RK3126-Bootloader/blob/master/rk3126MiniLoaderAll(L)_V2.19_off.bin?raw=true)
 * [rk3126MiniLoaderAll(L)_V2.19.bin](https://github.com/Fast0n/Rockchip-RK3126-Bootloader/blob/master/RK3126MiniLoaderAll(L)_V2.19.bin?raw=true)
